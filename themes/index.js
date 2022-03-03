@@ -355,6 +355,13 @@ const themes = {
     bg_color: "09131B",
     border_color: "0c1a25",
   },
+    molSTACKr: {
+    title_color: "ff002f",
+    icon_color: "FFE600",
+    text_color: "f2f2f2",
+    bg_color: "09131B",
+    border_color: "0c1a20",
+  },
 };
 
 module.exports = themes;
